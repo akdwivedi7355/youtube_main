@@ -54,13 +54,13 @@ This YouTube clone app built with React, Tailwindcss, Rapid API, and Firebase Au
 
 ## Checkout Portfolio & Other Projects
 
-### ⭐ [Personal Portfolio](https://shubhambhoj.in)
+### ⭐ [Personal Portfolio]()
 
 ## Connect with Me
 
-- [Mailto](mailto:shubhambhoj3@gmail.com)
+- [Mailto](mailto:akdwivedi7355@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+- [LinkedIn](https://www.linkedin.com/in/akdwivedi7355/)
 
 ---
 
